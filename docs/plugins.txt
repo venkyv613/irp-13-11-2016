@@ -1,0 +1,2 @@
+install buildship - gradle integration
+install subclipse - integrating with visual SVN

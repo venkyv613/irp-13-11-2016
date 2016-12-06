@@ -1,0 +1,3 @@
+inhydwbs02-wcg.corp.capgemini.com:8080
+
+cntlm -c cntlm.ini -I -M https://www.google.co.in

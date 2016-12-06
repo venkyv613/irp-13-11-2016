@@ -1,0 +1,15 @@
+>apt-get update && apt-get install -y git
+
+virtualbox
+select VM
+
+setting/network
+Bridged adapter
+
+Configure VPN connection
+
+on ternminal
+
+export http_proxy=http://username:password@proxy address:port
+
+use url encoding for special symbols
